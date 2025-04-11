@@ -18,20 +18,7 @@ Your contributions and support can help **enhance accessibility** for students a
 5. The file will be saved to your device for offline access.
 
 ---
-
-### 💻 Case 2: Downloading the Entire Repository on a Laptop
-1. Open GitHub and navigate to this repository: [PYQFort Repository](https://github.com/YourRepo/PYQFort)
-2. Click on the **"Code"** button.
-3. Select **"Download ZIP"** and extract the files on your laptop.
-4. Alternatively, use Git to clone the repository:
-   ```sh
-   git clone https://github.com/YourRepo/PYQFort.git
-   ```
-5. Access the required PYQs from the downloaded folder.
-
----
-
-## 🌟 Case 3: Contributing to PYQFort (Under Praxian Projects)
+## 🌟 Case 2: Contributing to PYQFort (Under Praxian Projects)
 
 ### 🔄 Cloning the Repository on Your Laptop
 To contribute, first **fork** the repository and then clone your fork:
@@ -74,15 +61,7 @@ git clone <your-forked-repo-URL>
 
 ---
 
-## 🤝 Join the Open-Source Movement!
-By contributing to **PYQFort**, you are not only helping students but also strengthening the **open-source ecosystem** of **Praxian Projects**.
-
-🌍 **Let's build an accessible academic resource together!**
-
-💡 **Star** ⭐ this repository, **Fork** 🍴 it, and start contributing today!
-
-📧 Need Help? Feel free to **raise an issue** or reach out to us!
-
-Happy Coding! 🎉
-
 <!-- GitAds-Verify: 3LCSMS8VVU16V6OI8T3YS6NZO1PU5VV4 -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=saumy1905/pyqfort@github)](https://gitads.dev/v1/ad-track?source=saumy1905/pyqfort@github)
