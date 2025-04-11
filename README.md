@@ -84,3 +84,5 @@ By contributing to **PYQFort**, you are not only helping students but also stren
 📧 Need Help? Feel free to **raise an issue** or reach out to us!
 
 Happy Coding! 🎉
+
+<!-- GitAds-Verify: 3LCSMS8VVU16V6OI8T3YS6NZO1PU5VV4 -->
