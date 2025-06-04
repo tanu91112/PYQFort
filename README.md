@@ -1,9 +1,3 @@
-<!-- GitAds-Verify: 3LCSMS8VVU16V6OI8T3YS6NZO1PU5VV4 -->
-
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=saumy1905/pyqfort@github)](https://gitads.dev/v1/ad-track?source=saumy1905/pyqfort@github)
-
-
 # 📚 PYQFort - The Unified Open Source PYQs Repository
 
 Welcome to **PYQFort**, an open-source initiative under the **Praxian Projects** theme! 🚀
