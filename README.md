@@ -30,12 +30,12 @@ git clone <your-forked-repo-URL>
 1. Navigate to the cloned directory and follow the commands:
    ```sh
    cd PYQFort
-   git remote add upstream <original-repo-URL>
+   git remote add upstream https://github.com/Saumy1905/PYQFort.git
    git remote -v
    ```
 2. Create a new branch for your contribution:
    ```sh
-   git checkout -b new-branch-name
+   git checkout -b college-name
    ```
 3. Add new PYQs or make improvements.
 4. Stage the changes:
@@ -48,7 +48,7 @@ git clone <your-forked-repo-URL>
    ```
 6. Push the changes to your fork:
    ```sh
-   git push origin new-branch-name
+   git push origin college-name
    ```
 
 ### 🔄 Submitting a Pull Request
