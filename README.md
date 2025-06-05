@@ -57,6 +57,13 @@ git clone <your-forked-repo-URL>
 3. Add a brief description of your changes.
 4. Click **"Create pull request"**.
 
+If you are contributing to this project, then make sure 
+
+1. Not to make any changes in the previously added college directories
+2. Not to add new college directory inside some other college
+3. Add your college directory in the main folder in which other college are added
+4. Not to add irrelevant content inside the college repository
+
 🚀 Your contribution will be reviewed and merged into the main repository!
 
 ---
