@@ -1,9 +1,3 @@
-<!-- GitAds-Verify: 3LCSMS8VVU16V6OI8T3YS6NZO1PU5VV4 -->
-
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=saumy1905/pyqfort@github)](https://gitads.dev/v1/ad-track?source=saumy1905/pyqfort@github)
-
-
 # 📚 PYQFort - The Unified Open Source PYQs Repository
 
 Welcome to **PYQFort**, an open-source initiative under the **Praxian Projects** theme! 🚀
@@ -36,12 +30,12 @@ git clone <your-forked-repo-URL>
 1. Navigate to the cloned directory and follow the commands:
    ```sh
    cd PYQFort
-   git remote add upstream <original-repo-URL>
+   git remote add upstream https://github.com/Saumy1905/PYQFort.git
    git remote -v
    ```
 2. Create a new branch for your contribution:
    ```sh
-   git checkout -b new-branch-name
+   git checkout -b college-name
    ```
 3. Add new PYQs or make improvements.
 4. Stage the changes:
@@ -54,7 +48,7 @@ git clone <your-forked-repo-URL>
    ```
 6. Push the changes to your fork:
    ```sh
-   git push origin new-branch-name
+   git push origin college-name
    ```
 
 ### 🔄 Submitting a Pull Request
@@ -62,6 +56,13 @@ git clone <your-forked-repo-URL>
 2. Click on **"Compare & pull request"**.
 3. Add a brief description of your changes.
 4. Click **"Create pull request"**.
+
+If you are contributing to this project, then make sure 
+
+1. Not to make any changes in the previously added college directories
+2. Not to add new college directory inside some other college
+3. Add your college directory in the main folder in which other college are added
+4. Not to add irrelevant content inside the college repository
 
 🚀 Your contribution will be reviewed and merged into the main repository!
 
