@@ -66,4 +66,8 @@ If you are contributing to this project, then make sure
 
 🚀 Your contribution will be reviewed and merged into the main repository!
 
+## LICENSE
+
+[MIT License](LICENSE)
+
 ---
