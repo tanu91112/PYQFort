@@ -68,6 +68,6 @@ If you are contributing to this project, then make sure
 
 ## LICENSE
 
-[MIT License](LICENSE)
+[GNU GPLv3](LICENSE)
 
 ---
