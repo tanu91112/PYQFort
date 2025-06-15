@@ -2,7 +2,7 @@
 
 Welcome to **PYQFort**, an open-source initiative under the **Praxian Projects** theme! 🚀
 
-This repository aims to create a **centralized collection** of **Previous Year Question Papers (PYQs)** for all **B.Tech. courses** of **J.C. Bose University of Science & Technology, YMCA, Faridabad** and **Heritage Institute of Technology, Kolkata**.
+This repository aims to create a **centralized collection** of **Previous Year Question Papers (PYQs)** for all **B.Tech. courses** of **J.C. Bose University of Science & Technology, YMCA, Faridabad**, **IIIT-Sonepat**, **KIIT,Bhubaneshwar**, **PSIT, Kanpur**, **ABV-IIITM Gwalior, MP** and and **Heritage Institute of Technology, Kolkata**.
 
 Your contributions and support can help **enhance accessibility** for students and build a strong foundation for future **open-source academic projects**. We **highly encourage you** to **fork and clone** this repository—your participation will fuel future innovations under **Praxian Projects**! 💡
 
@@ -65,5 +65,9 @@ If you are contributing to this project, then make sure
 4. Not to add irrelevant content inside the college repository
 
 🚀 Your contribution will be reviewed and merged into the main repository!
+
+## LICENSE
+
+[GNU GPLv3](LICENSE)
 
 ---
