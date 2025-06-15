@@ -1,5 +1,3 @@
-<<<<<<< walchand-college
-=======
 # 📚 PYQFort - The Unified Open Source PYQs Repository
 
 Welcome to **PYQFort**, an open-source initiative under the **Praxian Projects** theme! 🚀
@@ -73,4 +71,3 @@ If you are contributing to this project, then make sure
 [GNU GPLv3](LICENSE)
 
 ---
->>>>>>> main
