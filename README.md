@@ -70,4 +70,3 @@ If you are contributing to this project, then make sure
 
 [GNU GPLv3](LICENSE)
 
----
