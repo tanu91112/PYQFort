@@ -2,7 +2,16 @@
 
 Welcome to **PYQFort**, an open-source initiative under the **Praxian Projects** theme! 🚀
 
-This repository aims to create a **centralized collection** of **Previous Year Question Papers (PYQs)** for all **B.Tech. courses** of **J.C. Bose University of Science & Technology, YMCA, Faridabad**, **IIIT-Sonepat**, **KIIT,Bhubaneshwar**, **PSIT, Kanpur**, **ABV-IIITM Gwalior, MP**, **Heritage Institute of Technology, Kolkata**, **IIT-Manipur** and **NIT Kurukshetra**
+This repository aims to create a **centralized collection** of **Previous Year Question Papers (PYQs)** for all **B.Tech. courses** of:
+
+| 🧊 North India                             | 🏙️ Delhi NCR                      | 🌍 Central India                                | 🔥 South India                                               | 🌊 East India                                   | 🏜️ West India                                       | 🏞️ North-East India          |
+|-------------------------------------------|-----------------------------------|--------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------|-------------------------------------------------------|------------------------------|
+|   NIT-Kurukshetra (Haryana)                   | IGDTUW, Delhi                     | ABV-IIITM, Gwalior (Madhya Pradesh)             |        VIT Chennai (Tamil Nadu)                 | Heritage Institute of Technology, Kolkata (WB)  | Walchand College of Engineering, Sangli (Maharashtra) | IIIT-Manipur (Manipur)       |
+|       IIIT-Kota (Rajasthan)               | J.C. Bose UST, YMCA, Faridabad   | MANIT-Bhopal (Madhya Pradesh)                   | Chennai Institute of Technology, Kanchipuram (Tamil Nadu)    | KIIT, Bhubaneswar (Odisha)                      |                                                       |                              |
+| IIIT-Sonepat (Haryana)                    |                                   | VIT Bhopal University (Madhya Pradesh)          | Velammal College of Engineering & Tech., Tamil Nadu          | NIT Sikkim (Sikkim)                             |                                                       |                              |
+|    RTU, Kota (Rajasthan)              |                                   |                                                  |         Anna University, Chennai (Tamil Nadu)                             | IIIT-Ranchi (Jharkhand)                         |                                                       |                              |
+| PSIT, Kanpur (Uttar Pradesh)             |                                   |                                                  | VRSEC, Andhra Pradesh                                        |                                                  |                                                       |                              |
+
 
 Your contributions and support can help **enhance accessibility** for students and build a strong foundation for future **open-source academic projects**. We **highly encourage you** to **fork and clone** this repository—your participation will fuel future innovations under **Praxian Projects**! 💡
 
