@@ -98,6 +98,8 @@ If you are contributing to this project, then make sure
 
 ### 10. 🚀 Your contribution will be reviewed and merged into the main repository!
 
+---
+
 
 ## Code of Conduct
 
