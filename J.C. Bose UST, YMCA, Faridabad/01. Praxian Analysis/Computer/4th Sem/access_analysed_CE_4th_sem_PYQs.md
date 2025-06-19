@@ -1,7 +1,7 @@
 # Graphically analysed one-stop solution PYQs
 
 - [Computer organization and architecture (CE 4th Sem) (PCC-CS-402)]
-(https://drive.google.com/file/d/195Nva7_UGcG_S0Mub8NW1fEf4du73Rlz/view?usp=sharing)
+(https://drive.google.com/file/d/1mmq7F3-vJCkZ634DF92OJx_IAVbDH-JB/view?usp=drive_link)
 
 - [Design & Analysis of Algorithms (CE 4th Sem) (PCC-CS-404)]
 (https://drive.google.com/file/d/1GbjUD8jCFuYu4L5DoGzNjA_eNYlgErBr/view?usp=sharing)
