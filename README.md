@@ -2,6 +2,8 @@
 
 Welcome to **PYQFort**, an open-source initiative under the **Praxian Projects** theme! 🚀
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Pro&size=25&pause=1000&color=61AFEF&center=true&vCenter=true&width=1000&lines=PYQ+means+"PYQFort";🧊North+India+Colleges;NIT-Kurukshetra;IIIT-Kota;IIIT-Sonepat;RTU,+Kota;PSIT,+Kanpur;🏙️+Delhi+NCR+Colleges;IGDTUW,+Delhi;J.C.+Bose+UST,+YMCA,+Faridabad;🌍+Central+India+Colleges;ABV-IIITM,+Gwalior;MANIT-Bhopal;VIT+Bhopal+University;🔥+South+India+Colleges;VIT+Chennai;Chennai+Institute+of+Technology,+Kanchipuram;Velammal+College+of+Engineering+&+Tech.,+Tamil+Nadu;Anna+University,+Chennai;+VRSEC,+Andhra+Pradesh;🌊+East+India+Colleges;Heritage+Institute+of+Technology,+Kolkata;KIIT,+Bhubaneswar;NIT+Sikkim;IIIT-Ranchi;🏜️+West+India;Walchand+College+of+Engineering,+Sangli;🏞️+North-East+India;IIIT-Manipur)
+
 This repository aims to create a **centralized collection** of **Previous Year Question Papers (PYQs)** for all **B.Tech. courses** of:
 
 | 🧊 North India                             | 🏙️ Delhi NCR                      | 🌍 Central India                                | 🔥 South India                                               | 🌊 East India                                   | 🏜️ West India                                       | 🏞️ North-East India          |

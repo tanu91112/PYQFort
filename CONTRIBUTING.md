@@ -6,8 +6,8 @@ We appreciate your interest in contributing! To ensure a smooth and collaborativ
 
 - **🚀 Issue Assignment Priority:** The first person to comment on an issue will be given assignment priority.
 - **🔒 One Issue Per Contributor:** Only one issue will be assigned to each contributor at a time to ensure fair participation.
-- **🔁 Sequential Contributions:** Comment on only one issue at a time. Once your Pull Request (PR) is reviewed and merged, you are welcome to comment on another issue.
 - **⚠️ Accidental Multiple Assignments:** If you are assigned more than one issue by mistake, kindly inform the maintainers. You are allowed to work on only one at a time.
+- **🔁 Sequential Contributions:** Comment on only one issue at a time. Once your Pull Request (PR) is reviewed and merged, you are welcome to comment on another issue.
 
 ## 🧠 Important Note
 
