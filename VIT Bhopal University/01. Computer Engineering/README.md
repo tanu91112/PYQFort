@@ -52,4 +52,4 @@ This section of the repository contains semester-wise folders for **VIT Bhopal U
 
 ---
 
-
+> 🔄 Want to contribute? Follow the folder structure and naming pattern. Add only verified notes and PYQs.PRs welcome under the [SSOC S4](https://ssoc.dev/) initiative!
