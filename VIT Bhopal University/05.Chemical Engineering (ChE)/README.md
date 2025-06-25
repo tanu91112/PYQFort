@@ -1,5 +1,5 @@
 
-# 📘 README.md – Chemical Engineering (ChE) – VIT Bhopal University
+Chemical Engineering (ChE) – VIT Bhopal University
 
 ---
 
