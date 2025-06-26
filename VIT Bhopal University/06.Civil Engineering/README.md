@@ -27,3 +27,48 @@ Each folder below contains subject-specific PYQs named and structured according 
 
 All PYQ PDFs follow this strict naming format:
 
+📄 Subject Name (Month Year) (Course Code).pdf
+
+
+✅ Example:  
+`Transportation Engineering (Dec 2022) (CLE2005).pdf`
+
+---
+
+## 🧠 How to Use
+
+- Browse the subject folder of your choice.
+- Download the relevant PYQ file.
+- Use them to revise, practice, and understand exam patterns better.
+
+---
+
+## 🛠️ Contribution Guidelines
+
+Want to contribute?
+
+1. 🗂 Create or use the existing subject folder.
+2. 📝 Name your file as per the above format.
+3. 🔀 Raise a Pull Request referencing the related issue.
+4. ✅ Ensure the PDF is clear, complete, and correctly labeled.
+
+---
+
+## 👩‍💻 Maintained By
+
+**@tanu91112**  
+AIML | VIT Bhopal | SSOC S4 Contributor
+
+---
+
+## ⭐ Support & Share
+
+If you find this repository helpful:
+
+- 🌟 Star this repo  
+- 🔄 Share with your peers  
+- 📬 Contribute more PYQs to help future batches  
+
+> _"Engineers like to solve problems. If there are no problems handily available, they will create their own."_ – **Scott Adams**
+
+
