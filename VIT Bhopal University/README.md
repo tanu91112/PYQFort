@@ -48,9 +48,13 @@ Each PYQ file follows the format:
 Want to help your juniors & batchmates?
 
 📥 Upload missing question papers
+
 📁 Follow existing folder structure
+
 📝 Use standard naming convention
+
 🔁 Raise a Pull Request with proper issue references
+
 🌐 Join the [SSOC S4](https://ssoc.dev/) community!
 
 ---
