@@ -7,13 +7,21 @@ Welcome to the **VIT Bhopal University PYQ Repository**, dedicated to organizing
 
 ## 📂 Repository Structure
 VIT Bhopal University/
+
 ├── 01. Computer Science and Engineering
+
 ├── 02. Electronics and Communication Engineering
+
 ├── 03. Mechanical Engineering
+
 ├── 04. Civil Engineering
+
 ├── 05. Electrical Engineering
+
 ├── 06. Chemical Engineering
+
 └── 07. Biotechnology & Biomedical Engineering
+
 
 *(Each folder contains sub‑folders for individual courses with PDF files.)*
 
