@@ -1,5 +1,4 @@
 
-README.md: |
   # 🧬 Biotechnology & Biomedical Engineering – VIT Bhopal University
 
   Welcome to the repository of **Previous Year Question Papers (PYQs)** for the **Biotechnology and Biomedical Engineering** department at **VIT Bhopal University**.  
