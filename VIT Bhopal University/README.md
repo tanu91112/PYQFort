@@ -58,7 +58,7 @@ Want to help your juniors & batchmates?
 ## 👩‍💻 Maintained By
 
 > ✨ **@tanu91112**
-> 🎓 Integrated M.Tech AI – 3rd Year
+> 🎓 Integrated M.Tech AI – 4th Year
 > 📍 VIT Bhopal University
 > 🤝 SSOC Contributor | GitHub Enthusiast
 
