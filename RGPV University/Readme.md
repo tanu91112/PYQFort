@@ -13,7 +13,7 @@
 
 Each semester folder contains:
 
-- ✅ Past year question papers (core and elective subjects)  
+- ✅ Past year question papers of CSE. 
 - 📘 Official syllabus PDFs for each semester
 
 > ℹ️ **Note:** The **1st year syllabus (1st & 2nd Sem)** is **common for all branches**.
