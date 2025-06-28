@@ -21,7 +21,6 @@ This community-driven repository is designed to help you access subject-wise aca
 | 🔢  | Department                                                                                                  | 📂 Folder                                                                                                                                              |
 | --- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 🔢 | Department | 📂 Folder |
-| --- | --- | --- |
 | 1️⃣ | Aeronautical Engineering | [View Folder](https://github.com/Saumy1905/PYQFort/tree/main/Anna-University/R2021/01.%20Aeronautical%20Engineering) |
 | 2️⃣ | Aerospace Engineering | [View Folder](https://github.com/Saumy1905/PYQFort/tree/main/Anna-University/R2021/02.%20Aerospace%20Engineering) |
 | 3️⃣ | Agriculture Engineering | [View Folder](https://github.com/Saumy1905/PYQFort/tree/main/Anna-University/R2021/03.%20Agriculture%20Engineering) |
