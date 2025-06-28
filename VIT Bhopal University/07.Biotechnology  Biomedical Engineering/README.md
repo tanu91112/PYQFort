@@ -65,7 +65,7 @@
 ## 🙌 Maintained by
 
 > 📛 `@tanu91112`  
-> 🎓 Third Year | Integrated M.Tech AI | VIT Bhopal University
+> 🎓 4th Year | Integrated M.Tech AI | VIT Bhopal University
 
 ---
 
