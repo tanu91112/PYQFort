@@ -9,9 +9,13 @@ This community-driven repository is designed to help you access subject-wise aca
 ## 🌟 Repository Highlights
 
 ✅ **Department & Subject-wise folders**
+
 ✅ **Clickable links** to all course resources
+
 ✅ **Clean, uniform naming** of PDFs
+
 ✅ **Perfect for exam prep** 📚
+
 ✅ **Built & maintained by students** 🧑‍💻
 
 ---
