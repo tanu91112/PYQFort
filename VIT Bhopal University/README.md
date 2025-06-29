@@ -9,9 +9,13 @@ This community-driven repository is designed to help you access subject-wise aca
 ## 🌟 Repository Highlights
 
 ✅ **Department & Subject-wise folders**
+
 ✅ **Clickable links** to all course resources
+
 ✅ **Clean, uniform naming** of PDFs
+
 ✅ **Perfect for exam prep** 📚
+
 ✅ **Built & maintained by students** 🧑‍💻
 
 ---
@@ -64,6 +68,8 @@ Want to help your juniors & batchmates?
 > ✨ **@tanu91112**
 
 > 🎓 Integrated M.Tech AI – 4th Year
+
+> ❤️ Feel free to connect with me on www.linkedin.com/in/tanu-chandravanshi-338940251
 
 > 📍 VIT Bhopal University
 
