@@ -69,6 +69,8 @@ Want to help your juniors & batchmates?
 
 > 🎓 Integrated M.Tech AI – 4th Year
 
+> ❤️ Feel free to connect with me on www.linkedin.com/in/tanu-chandravanshi-338940251
+
 > 📍 VIT Bhopal University
 
 > 🤝 SSOC Contributor | GitHub Enthusiast
