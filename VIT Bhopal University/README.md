@@ -66,19 +66,32 @@ Want to help your juniors & batchmates?
 ---
 
 
-how_to_contribute:
+## 💁‍♀️ How_to_contribute:
+
   steps:
+  
     - 🔍 Identify which subject's PYQs are missing.
+    
     - 📂 Upload your PDF under the correct department folder.
+    
     - 📝 Ensure filename format is: "Course Name (MONTH YEAR) (COURSE CODE).pdf"
+    
     - 🔧 Go to GitHub → Fork the repository.
+    
     - 📌 Add your files under your fork.
+    
     - 🔁 Create a Pull Request with:
+    
         - A clear title (e.g. "Add Compiler Design (May 2023) (CSE2002)")
+        
         - Mention the subject, year, and course code in the PR description.
+        
         - Reference the relevant GitHub issue (if any).
+        
     - 💬 Tag @tanu91112 if needed or reach out on LinkedIn.
+    
     - 🙌 Wait for approval and merge by the maintainer.
+    
 
 ## 👩‍💻 Maintained By
 
@@ -107,4 +120,4 @@ how_to_contribute:
 
 ---
 
-📌 Scroll below to access **department-wise full indexes** ⬇️
+📌 Scroll below to access **department-wise full indexes** ⬇️ 
