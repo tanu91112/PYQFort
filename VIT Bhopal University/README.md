@@ -31,7 +31,9 @@ This community-driven repository is designed to help you access subject-wise aca
 | 5️⃣ | [Chemical Engineering (ChE)](#-chemical-engineering-che--vit-bhopal-university)                             | [View Folder](https://github.com/tanu91112/PYQFort/tree/main/VIT%20Bhopal%20University/05.Chemical%20Engineering%20%28ChE%29)                          |
 | 6️⃣ | [Civil Engineering](#-vit-bhopal-university--civil-engineering-che)                                         | [View Folder](https://github.com/tanu91112/PYQFort/tree/main/VIT%20Bhopal%20University/06.Civil%20Engineering)                                         |
 | 7️⃣ | [Biotechnology & Biomedical](#-biotechnology--biomedical-engineering--vit-bhopal-university)                | [View Folder](https://github.com/tanu91112/PYQFort/tree/main/VIT%20Bhopal%20University/07.Biotechnology%20%20Biomedical%20Engineering)                 |
-
+| 8️⃣ | [Automobile & Automotive Engineering](#-automobile--automotive-engineering--vit-bhopal-university)                | [View Folder](https://github.com/tanu91112/PYQFort/tree/main/VIT%20Bhopal%20University/08.Automobile%20%20Automotive%20Engineering)                 |
+| 9️⃣ | [Information Technology (IT)](#-information-technology-it--vit-bhopal-university)                                 | [View Folder](https://github.com/tanu91112/PYQFort/tree/main/VIT%20Bhopal%20University/09.Information%20Technology%20(IT))                          |
+| 🔟 | [Interdisciplinary & Others](#-interdisciplinary--others--vit-bhopal-university)                                  | [View Folder](https://github.com/tanu91112/PYQFort/tree/main/VIT%20Bhopal%20University/10.Interdisciplinary%20%26%20Others)                         |
 ---
 
 ## 🧾 File Naming Convention
@@ -62,6 +64,21 @@ Want to help your juniors & batchmates?
 🌐 Join the [SSOC S4](https://ssoc.dev/) community!
 
 ---
+
+
+how_to_contribute:
+  steps:
+    - 🔍 Identify which subject's PYQs are missing.
+    - 📂 Upload your PDF under the correct department folder.
+    - 📝 Ensure filename format is: "Course Name (MONTH YEAR) (COURSE CODE).pdf"
+    - 🔧 Go to GitHub → Fork the repository.
+    - 📌 Add your files under your fork.
+    - 🔁 Create a Pull Request with:
+        - A clear title (e.g. "Add Compiler Design (May 2023) (CSE2002)")
+        - Mention the subject, year, and course code in the PR description.
+        - Reference the relevant GitHub issue (if any).
+    - 💬 Tag @tanu91112 if needed or reach out on LinkedIn.
+    - 🙌 Wait for approval and merge by the maintainer.
 
 ## 👩‍💻 Maintained By
 
