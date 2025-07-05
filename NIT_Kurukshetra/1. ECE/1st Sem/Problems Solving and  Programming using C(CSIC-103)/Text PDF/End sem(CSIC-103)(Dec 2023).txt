@@ -1,0 +1,103 @@
+NIT Kurukshetra, AY2023-2024 Semester 1
+Subject: Programming Solving & Programming Using C (Dec 2023) (CSIC 103)
+
+Max Marks: 50 
+Duration: 180 Minutes
+
+Instructions:
+- ALL questions are COMPULSORY
+- The paper has a total of FOUR questions on TWO printed pages
+- For problem-solving problems, before writing the source code, the algorithm/logic must be explained in detail.
+- Overwritten answers will not be entertained.
+
+Q1 (a) Write a C pragram to check whether a Number can be expressed as the Sum of Two Prime Numbers.
+Example:
+I/P: 7, O/P: Yes, Hint: 7 can be expressed as the sum of 2 and 5, which are prime.
+I/P: 11, O/P: Yes, Hint: There are no two prime numbers such that their sum is 11. (4)
+
+    (b) Write a Program to Interchange elements of First and Last in a Matrix Across Columns. (4)
+Example:
+       9    7   5               5   7   9
+Input: 2    3   4       Output: 4   3   2
+       5    2   6               6   2   5 
+
+    (c) The electricity bill per unit is charged as 1 rupee for the first 100 units. From unit 101 to 300 units, it is charged 2 rupees per unit. Units 301 to 500 are 5 rupees per unit. Units above 500 are charged 10 rupees per unit. Given the total electricity bill paid by a consumer, find out the number of units consumed with the help of a C-program.
+    Example: I/P: bill = 1600 O/P: unit = 510; I/P bill = 120 O/P: unit = 110 (4)
+
+    (d) Write a C program to swap the 2nd digit with the last digit of the positive integer number (from the rightmost side of the number) entered by the user without using the array. The number can be of arbitrary length.
+    Example: I/P: 12345 (here, 2nd digit is 4 and last digit is 1), O/P: 42315 (4)
+
+Q2 (a) Write a function that takes two double and an integer as arguments and compares both the double values. The integer argument specifics the number of digits after the decimal point to consider for the comparison. The prototype of the function is given below: (5)
+int compare (double numl, double num2, int s)
+If num1 and num2 are equal, then it should return 0; if num1 is greater, it should return 1; and if num2 is greater, it should return -1. Example: compare(113.456052, 113.456059, 6) returns -1, compare(113.456052, 113.456059, 5) returns 0, compare(113.456152,113.456059,4) retumns 1, and compare(123.456152,113.456059,4) returns 1.
+
+    (b) Let r and R are two positive rational numbers. r is expressed as n/m and R is expressed as N/M, where n, m, N and M are all positive integers. Write a C-program to take input for n, m, N, M and check whether R is a perfect power of r. R is a perfect power of r, if R=r^k where K is an integer and K>=0. (5)
+    Example
+    I/P: R1 = 2/3 and R2 = 16/81 O/P: Perfect power
+    I/P: R1 = 4/3 and R2 = 64/81 O/P: Not a Perfect power
+
+    (c) Given an integer n (user-defined), generate the first n terms of the following sequence, where the sequence is formed with the first prime number, i.c., 2 as its first term. The subsequent terms of the sequence are made up of the next two non-prime numbers, i.c., 4 and 6, followed by the next three prime numbers, ie, 7, 11 and 13, followed by the next four non-prime numbers, i.c., 14, 15, 16 and 18 and so on .... the sequence continues. Write a program in C to implement it. (5)
+    Example:
+    I/P: 5 O/P: 2 4 6 7 11
+    I/P: 10 O/P: 2 4 6 7 11 13 14 15 16 18
+
+    (d) Write a program to count the number of occurrences of any two vowels in succession in a line of text. For example, .in the sentence, “Please read this application and give me gratuity”, such occurrences are ea, ea; io and ui. (“Please read this application and give me gratuity".) 
+    Example: I/P: "“Please read this application and give me gratuity" O/P: 4 (5)
+
+Q3 (a) Write a C program to read data from the keyboard and write it to a file called abc.out. (3) 
+   (b) An automobile company has serial numbers for engine parts ranging from AAO to FF9. The other characteristics of the parts to be specified in a Structure are: Year of manufacture, material, and quantity manufactured. (7)
+   1. Specify a Structure to store information corresponding to a part.
+   2. Write a program to retrieve information on parts with serial numbers between BBI and CC6.
+
+Q4 Each sub-question carries equal marks. (4)
+
+    (a) Given the code snippet, what will be the fill-in-the-blank condition to get the output:
+    1 3 5 7 9:
+
+    #include<stdio.h>
+    int main() {
+        int i=1;
+    for(;i<=10;i++){
+        if(..............)
+        continue;
+        printf("%d", i);
+    }
+        return 0;
+    }
+
+    (b) What is the output:
+
+    #include<stdio.h>
+    #include<math.h>
+    int main()
+    {int a=100;
+    if(a<=100)
+        printf("Output1");
+    else if((a>=100)&&(a%2==0))
+        printf("Output2");
+    else
+        printf("Output3");
+    }
+
+    (c) What is the output:
+
+    #include<stdio.h>
+    int main() {
+    int a=3, b=7, c=5;
+    int d;
+    d=a>=b?a>=c?a:c:b>=c?b:c;
+    printf("%x",d);
+    }
+
+    (d) What is the output:
+
+        void main() {
+            int a[] = {1,2,3,4,5}, *p;
+            p = a;
+            ++*p;
+            printf("%d",*);
+        }
+
+
+
+    
