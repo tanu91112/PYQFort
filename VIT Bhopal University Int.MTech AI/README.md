@@ -66,7 +66,8 @@ Join the [SSOC S4](https://ssoc.dev/) community and be part of the movement!
 
 ## 👨‍💻 Maintainer
 
-> 🧑‍🎓 **@Lavi-hk** – Integrated M.Tech AI  
+> 🧑‍🎓 **@Lavi-hk** – Integrated M.Tech AI
+> 🤝 Feel free to connect with me on www.linkedin.com/in/harpreet01kour
 > 🏫 VIT Bhopal University  
 > 💡 SSOC Contributor | GitHub Enthusiast
 
