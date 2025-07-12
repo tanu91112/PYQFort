@@ -1,0 +1,30 @@
+Institute: VIT Bhopal University  
+Subject: Electric Circuits and Systems (Dec 2023) (EEE1001)
+
+Part A (30 Marks)
+Q1 (a) Find the current IL using Superposition Theorem for the circuit shown in Fig.1  
+   OR  
+   (b) A circular iron ring has a mean circumference of 1.5m and cross-sectional area of 0.01 m².  
+       A 4mm sawcut is made. Calculate magnetizing current for 0.8mWb flux if wound with 175 turns.  
+       μr = 400, leakage factor = 1.25
+
+Q2 (a) Identify the device used to transform voltage in power systems. Describe construction, operation,  
+       and characteristics with illustrations.  
+   OR  
+   (b) For circuit in Fig.2, determine:  
+       a) DC output voltage  
+       b) Rectification Efficiency  
+       c) Peak Inverse Voltage  
+       d) Output frequency
+
+Q3 (a) Identify the MOSFET with no channel between drain and source.  
+       Explain its working principle with characteristics and diagrams.  
+   OR  
+   (b) Explain how a full adder can be built using two half adders.
+
+Part B (20 Marks)
+Q4 A closed magnetic circuit has 6cm path (1cm²) and 2cm path (0.5cm²).  
+   A 200-turn coil carries 0.4A current on the 6cm section.  
+   Find flux density in the 2cm path. μr = 750
+
+Q5 Design a 4-bit ripple counter and explain its operation with neat signal diagram.
