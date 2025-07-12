@@ -1,0 +1,46 @@
+Institute: NIT Kurukshetra
+Subject: Operating Systems (May 2022) (CSPC-200)
+
+Part A
+Q1 (a) Consider a set of n tasks with known runtimes r1, r2, ..., rn to be run on a uniprocessor machine. Identify the CPU scheduling algorithm that will result in the maximum throughput and why?(2)
+   (b) Illustrate spinlock and busy-waiting conditions?(2)
+   (c) Why can't you disallow mutual exclusion in order to prevent deadlocks?(2)
+   (d) A paging scheme uses a Translation Lookaside Buffer (TLB). The effective memory access takes 160 ns and a main memory access takes 100 ns. Determine the TLB access time (in ns) if the TLB hit ratio is 60% and there is no page fault?(2)
+Q2 (a) Discuss situations in which the MFU page-replacement algorithm generates fewer page faults than the LRU page-replacement algorithm.Also identify under what circumstances the opposite holds.(2)
+   (b) Consider a multilevel feedback queue scheduling (MLFBQ) with three queues q1, q2 and q3. q1 and q2 use round-robin algorithm with time quantum (TQ) = 5ms, and 4ms respectively. q3 uses FCFS algorithm. Find the average waiting time and average turnaround time for executing the following process?(4)
+                     Process	Burst time (ms)
+                        P1	      8
+                        P2	      22
+                        P3	      4
+                        P4	      12
+Q3 (a) Can a multithreaded solution using multiple user level threads achieve better performance on multiprocessor system than on a single processor?(2)
+   (b) Consider the following code segment:(4)
+          pid_tpid;
+          pid = fork();
+          if (pid == 0) { /* child process */ 
+          fork();
+          thread_create(...);
+          }
+          fork();
+          (i) Estimate how many unique processes are created?
+          (ii) Estimate how many unique threads are created?
+Q4 (a) Identify the circumstances under which the rate monotonic scheduling is inferior to earliest deadline first scheduling in meeting the deadlines associated with each process. Consider two processes where:p1=50, t1=25 and p2=75, t2=30.Illustrate the scheduling of these processes using earliest deadline first scheduling.(4)
+   (b) Implement wait() and signal() operations for a system using the test_and_set() instruction. Annotate how your solution is handling busy waiting.(4)
+Q5 (a) Explain solution to the dining philosophers’ problem using semaphores. Don’t write the code, only explain the strategy.(3)
+   (b) Consider the following pseudocode, where S is a semaphore initialized to 5 in line #2 and counter is a shared variable initialized to 0 in line #1. Assume that the counter++ operation in line #7 is not atomic.Detect the possible values that counter can have at the end of execution if 5 threads execute function parop simultaneously?Explain. Also check if deadlock is possible in the given operation or not.(3)
+           int counter = 0;  
+           Semaphore S = init(5);  
+           void parop(void)  
+           {  
+               wait(S);  
+               wait(S);  
+               counter++;  
+               signal(S);  
+               signal(S);  
+           }
+Q6 (a) What happens when an instruction cannot be executed due to a page fault? May it be during instruction fetch or during operand fetch?How will this instruction get executed eventually?Consider different scenarios.(3)
+   (b) Define Thrashing? Describe the methods to avoid it.(3)
+   (c) Illustrate the goals, principles, and domain of protection of operating systems.(3)
+Q7 (a) Let a disk drive have 5000 cylinders from 0 to 4999. Currently drive is at 143rd cylinder, and the previous request was at cylinder 125. Queue of pending request in FIFO order:186, 1470, 913, 1774, 948, 1509, 1022, 130.Evaluate the total distance the disk arm moves to satisfy all the pending requests for each of the following disk scheduling algorithms from current position i) FCFS ii) LOOK. (4)
+   (b) Contrast the performance of techniques of allocating disk blocks i.e., continuous, linked, and indexed for sequential and random access.(3)
+           

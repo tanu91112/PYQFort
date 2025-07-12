@@ -1,0 +1,32 @@
+Institute: NIT_Kurukshetra
+Subject: Data Structures (May 2018) (ITPC 100)
+
+SECTION-A (2 marks each)
+Q1 (a) Differentiate between dangling pointer and wild pointer.                                               
+   (b) What is doubly ended queue (DEQueue)?                                                
+   (c) Compare and contrast singly linked list and doubly linked list.                                  
+   (d) What is the max heap? Show it with an example.                                   
+   (e) What is an extended binary tree? Illustrate with an example.                         
+
+SECTION-B
+Q2 (a) What is the difference between a heap and binary search tree?Obtain heap and binary tree for the following data set:45, 56, 78, 23, 11, 54, 88, 43, 55, 21, 67. (5)                                 
+   (b) Write a program to create a circular linked list and C function to delete its middle element in a single traversal. Also, explain deletion complexity.(5)                                       
+Q3 (a) Differentiate between malloc and calloc.(2)                                             
+   (b) Write a program to implement stack using a linked list with its push and pop functions.(4)
+   (c) Write insertion and deletion functions for the circular queue using an array.(4)                 
+Q4 (a) A binary tree has 9 nodes. The in-order and pre-order traversal of the tree yields the following sequence of nodes.Draw the tree and also write its step.(4)
+          In-order: E A C I F H D B G
+          Pre-order: F A E I C D H G B
+(b) Write a program to create a max heap. Analyze the complexity of max heap.(6)                      
+
+SECTION-C (5 marks each)
+Q5 (a) Write a program of reversal of singly linked list using any number of variables. (5)                  
+   (b) Write a C function of inserting an element in a binary search tree at the node having one child or no child.  (5)
+Q6 (a) Write the non-recursive C function for pre-order traversal of a binary tree.(4)  
+   (b) WAP to create a doubly linked list of n elements. Also, write a function to delete even places elements.(6)
+Q7 (a) Write the C program for sorting the list of integers using quick sort algorithm. Obtain the worst case and average case time complexity of this algorithm. Show the trace of an algorithm for following the key sequence:62, 22, 36, 6, 79, 26, 75, 13, 31, 76. (6) 
+   (b) Write an algorithm for evaluating a postfix expression and evaluate the following postfix expression using the algorithm:AB+CD/AD-EA^+* where A = 2, B = 7, C = 9, D = 3, E = 5. (4) 
+Q8 (a) What is a DEQueue? Give an option between a linear array and circular array, which one will you choose to implement DEQueue. Justify your answer. (5)
+   (b) Write an algorithm to merge two circular linked lists, A and B, to produce a resultant circular linked list C. (5)
+
+
