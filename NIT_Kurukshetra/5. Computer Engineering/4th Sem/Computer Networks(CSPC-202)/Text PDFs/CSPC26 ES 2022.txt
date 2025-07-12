@@ -15,16 +15,12 @@ Q3 (a) An ISP is granted a block of addresses starting with 150.80.0.0/16. The I
         Design the subblocks and give the slash notation for each subblock. Find out how many addresses are still available after these allocations.
    (b) Consider the following network running the distance vector routing protocol. In the diagram, vertices represent routers and edges (arcs) represent links between routers. The numerical annotation on the links represents link costs. Higher costs indicate worse links.(5)
         (i) Show the routing table at node A when the distance vector routing algorithm stabilizes.
-             Node	                    Distance
-              B                         6
-              C	                        3
-              D	                        2
-              E	                        1
         (ii) Suppose the link between node A and node E fails, show the routing table at node B when the distance vector algorithm stabilizes.
-                         Node	   Distance
-                           B	     5
-                           C	     3
-                           D	     2
+
+
+                          ****             [[[[               Contains a mapping diagram           ]]]]]         ****
+
+
 Q4 (a) Explain various TCP congestion control mechanisms. Also, explain various end-to-end issues in TCP.(6)
    (b) What is DNS protocol? Explain the Recursive and Iterative DNS resolver with suitable figure. Draw the format of DNS query and response messages.(4)
 Q5 (a) Why redundant bits are used in error detection and correction schemes? The message 11001001 is to be transmitted using the CRC polynomial x^3 + 1 to protect it from errors. Calculate codeword which should be transmitted. Suppose third bit from left encounter with an error, how to detect error at receiving end?(5)
