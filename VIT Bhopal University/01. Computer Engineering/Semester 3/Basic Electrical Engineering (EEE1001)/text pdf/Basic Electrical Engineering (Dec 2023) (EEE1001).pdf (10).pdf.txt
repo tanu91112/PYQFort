@@ -1,0 +1,23 @@
+
+Institute: VIT Bhopal University  
+Subject: Basic Electrical Engineering (Mid-Term Oct 2021) (EEE1001)  
+
+Part A (1.5 marks each)  
+Q1 (a) Derive the condition for maximum power transfer in a circuit.  
+   (b) Determine the value of RL for maximum power transfer and find the maximum power transferred to the load (See Fig. 1).  
+
+Q2 (a) A series RLC circuit has L = 160 mH, C = 100 µF, R = 40 Ω. It is connected to V(t) = 40sin(ωt), with ω = 200 rad/s.  
+         1. What is the impedance of the circuit?  
+         2. Let current be I(t) = I₀ sin(ωt - φ). Find I₀.  
+         3. What is the power factor?  
+   (b) Using superposition theorem, determine current I₂ through R₂ = 12 kΩ in the given circuit (See Fig. 2).  
+
+Q3 (a) Determine V₀ and I in the circuit with ideal diodes (See Fig. 3).  
+   (b) Determine the output waveform V₀ in the network (See Fig. 4). Calculate output DC level and required PIV of each diode.  
+
+Part B  
+Q4 (a) Draw input/output characteristics of CE configuration NPN transistor made with silicon. Define ICEO.  
+   (b) Explain the working of n-channel D-MOSFET with transfer characteristics curve.  
+
+Q5 (a) Design a combinational logic circuit with 3 inputs that outputs ‘1’ when more than one input is ‘0’.  
+   (b) Minimize F(A, B, C, D) = ∑(0, 2, 5, 7, 11, 14) using K-map. Realize using NAND gates only.
