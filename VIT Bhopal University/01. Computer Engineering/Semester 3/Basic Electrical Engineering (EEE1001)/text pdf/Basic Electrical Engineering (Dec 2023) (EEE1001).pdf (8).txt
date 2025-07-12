@@ -1,0 +1,17 @@
+Institute: VIT Bhopal University  
+Subject: Basic Electrical Engineering (Dec 2023) (EEE1001)  
+
+Part A (1.5 marks each)  
+Q1 (a) Calculate the values of total current I and voltage across each element (R, L, C) of the below Fig. 1.  
+   (b) An iron ring of 19.1 cm mean diameter has a cross-sectional area of 8 cm². The ring has an air gap of 5 mm. The winding on the ring has 1000 turns and carries a current of 5 A. The relative permeability of iron is 2000. Calculate the flux produced in the air gap.  
+
+Q2 (a) A 12-pole separately excited machine has 1200 lap-connected conductors, each carrying a current of 15 A. The armature is driven at 300 rpm. The flux per pole is 60 mWb. Resistance of armature circuit is 0.1 Ω. Calculate the output power.  
+   (b) Calculate the minimum and maximum values of the series resistance Rs in the given circuit. IzM is zener maximum current (See Fig. 2).  
+
+Q3 (a) Analyse the device which works as a switch, controls the voltage and current flow between the source and drain. The working depends on the MOS capacitor, which is the semiconductor surface below the oxide layers. Analyse its operating modes.  
+   (b) Find the outputs Y1 to Y6 of the digital logic diagram using the truth table (See Fig. 3).  
+
+Part B  
+Q4 Calculate the voltage drop across the j5Ω impedance shown in the Fig. 4.  
+
+Q5 Implement the Boolean function f(a, b, c) = ∑(1, 2, 6, 7) using a 4:1 multiplexer.
