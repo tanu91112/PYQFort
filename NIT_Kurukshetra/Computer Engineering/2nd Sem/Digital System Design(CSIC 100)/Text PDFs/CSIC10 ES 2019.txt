@@ -1,0 +1,19 @@
+Institute: NIT_Kurukshetra
+Subject: Digital System Design (Dec 2019) (CSIC 100)
+
+Q1 (A) Convert the decimal number 30 into gray, octal, binary and excess 3 code.  (4)
+   (B) Perform the following binary multiplications:  (3)
+        (a) 1101 * 1011  (b) 0101 * 1010  (c) 100111 * 011011  
+   (C) State and prove De Morgan’s theorem. (3)
+Q2 (A) Obtain the simplified expression using SOP form:  (4)
+           F(A, B, C, D) = Σ m (0,1,2,4,5,6,8,9,10,12,13)  
+   (B) Differentiate between:  (6)
+       (a) Half adder and Full adder  
+       (b) Synchronous and Asynchronous sequential circuit. 
+Q3 (A) What is the difference between SR flip flop and SR latch?  (2)
+   (B) Discuss various types of shift register with suitable examples. (5)
+   (C) Convert D flip flop to T flip flop. (3)
+Q4 (A) What is priority encoder? Explain its working with an example.(5)  
+   (B) Design BCD to Excess-3 code converter.  (5)
+Q5 (A) Design asynchronous BCD up counter using JK flip flop. (5) 
+   (B) Differentiate between Ring and Johnson counter. (5)
