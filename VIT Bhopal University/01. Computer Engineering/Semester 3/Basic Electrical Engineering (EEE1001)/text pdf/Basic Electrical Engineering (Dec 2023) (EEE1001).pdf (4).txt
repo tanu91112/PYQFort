@@ -1,0 +1,17 @@
+Institute: VIT Bhopal University  
+Subject: Electric Circuits and Systems (Oct 2021) (EEE1001)
+
+Part A (30 Marks)
+Q1 Find the current in the 2 Ω resistor in the network of Fig. 1
+
+Q2 Find Norton’s equivalent network at the terminals A and B of Fig. 2
+
+Q3 Determine I, V1, V2, and V0 for the series DC configuration of Fig. 3.  
+   Consider the value of 0.7V for the silicon diode to move from off state to on state.
+
+Part B (20 Marks)
+Q4 Why the gate-to-source voltage is not used in an N Channel Depletion-type MOSFET?  
+   What is pinch–off voltage and what happens to the drain-to-source current at this point?  
+   Explain the working with the help of a neat sketch.
+
+Q5 Realize XOR and XNOR gates using NAND and NOR gates respectively.
