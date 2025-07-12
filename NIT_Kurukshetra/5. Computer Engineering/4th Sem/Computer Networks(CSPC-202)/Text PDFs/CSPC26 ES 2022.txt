@@ -1,0 +1,34 @@
+Institute: NIT_Kurukshetra
+Subject: Computer Networks (May 2022) (CSPC-202)
+
+Part A
+Q1 (a) What does the Shannon capacity have to do with communications? The signal to noise ratio for a voice grade line is 30.1 dB (decibels). What is maximum achievable data rate on this line whose spectrum ranges from 300 Hz to 4300 Hz? (4)
+   (b) Write the difference between guided and unguided transmission media. (3)
+   (c) We have sampled a low-pass signal with a bandwidth of 200 KHz using 1024 levels of quantization. Calculate the bit rate of the digitized signal. Calculate the SNRdB for this signal. (3)
+Q2 (a) What is CSMA/CD? How does it work? Distinguish between 1-Persistent, non-Persistent and P-persistent CSMA. Also explain how to avoid collision in wireless LAN? (4)
+   (b) Frames of 1000 bits are sent over a 10^6 bps duplex link between two hosts. The propagation time is 25ms. Frames are to be transmitted into this link to maximally pack them in transit (within the link). What is the minimum number of bits (i) that will be required to represent the sequence numbers distinctly? Assume that no time gap needs to be given between transmissions of two frames. (4)
+   (c) Explain Port Address in detail? (2)
+Q3 (a) An ISP is granted a block of addresses starting with 150.80.0.0/16. The ISP wants to distribute these blocks to 2600 customers as follows.(5)
+        (i) The first group has 200 medium-size businesses; each needs 128 addresses.
+        (ii) The second group has 400 small businesses; each needs 16 addresses.
+        (iii) The third group has 2000 households; each needs 4 addresses.
+        Design the subblocks and give the slash notation for each subblock. Find out how many addresses are still available after these allocations.
+   (b) Consider the following network running the distance vector routing protocol. In the diagram, vertices represent routers and edges (arcs) represent links between routers. The numerical annotation on the links represents link costs. Higher costs indicate worse links.(5)
+        (i) Show the routing table at node A when the distance vector routing algorithm stabilizes.
+        (ii) Suppose the link between node A and node E fails, show the routing table at node B when the distance vector algorithm stabilizes.
+
+
+                          ****             [[[[               Contains a mapping diagram           ]]]]]         ****
+
+
+Q4 (a) Explain various TCP congestion control mechanisms. Also, explain various end-to-end issues in TCP.(6)
+   (b) What is DNS protocol? Explain the Recursive and Iterative DNS resolver with suitable figure. Draw the format of DNS query and response messages.(4)
+Q5 (a) Why redundant bits are used in error detection and correction schemes? The message 11001001 is to be transmitted using the CRC polynomial x^3 + 1 to protect it from errors. Calculate codeword which should be transmitted. Suppose third bit from left encounter with an error, how to detect error at receiving end?(5)
+   (b) During a TCP connection, the size of the window advertized by receiver is 18 KB. The last byte sent by the sender is 20480 and the last byte acknowledged by receiver is 8384. If the current congestion window is 16 KB, then What is the current size of the sender’s window?(3)
+   (c) What is maximum length of the cable (in km) for transmitting data at a rate of 10 Mbps in an Ethernet LAN with frames of size 288 bits and the speed of propagation is 200 m/μsec?(2)
+(OR)
+Q6 Write Short Notes on following:
+    (i) ICMP error and info messages
+    (ii) UDP
+    (iii) Classful & Classless IP Addressing
+    (iv) Analog modulation
