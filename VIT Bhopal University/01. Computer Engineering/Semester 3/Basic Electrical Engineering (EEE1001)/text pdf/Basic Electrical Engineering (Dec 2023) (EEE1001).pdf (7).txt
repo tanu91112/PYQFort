@@ -1,0 +1,20 @@
+Institute: VIT Bhopal University  
+Subject: Basic Electrical Engineering (Dec 2023) (EEE1001)  
+
+Part A (1.5 marks each)  
+Q1 (a) For the circuit shown in Fig. 1, the Thevenin equivalent voltage (in Volts) across terminals a-b is _____.  
+   (b) In circuit Fig. 2 shown, the switch SW is closed at t = 0. Assuming zero initial conditions, the value of v(t) (in volts) at t = 1 second is _______  
+   (c) Write a working principle of a D.C. motor. Derive the voltage, power and torque equation for a D.C. motor.  
+   (d) What is a Zener diode? How is it different from a p-n junction diode?  
+
+Q2 (a) In BJT, the reverse saturation current of the collector-base junction is 15 nA at low collector voltages.  
+         I. If the current amplification factor is 0.98, then the collector current with emitter open is _______  
+         II. In the above problem, if the current amplification factor increases by 1%, then the change in the collector current with base open is _______  
+   (b) In the 4×1 multiplexer (Fig. 3), the output of the multiplexer F is _______  
+
+Q3 Draw S-R Flip Flop using NAND gate and explain its operation.  
+
+Part B  
+Q4 Two inductors whose self-inductances are of 75 mH and 55 mH respectively are connected together in parallel aiding. Their mutual inductance is given as 22.5 mH. Calculate the total inductance of the parallel combination.  
+
+Q5 Draw S-R FF using NAND gate, explain its operation.
