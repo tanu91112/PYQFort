@@ -1,0 +1,23 @@
+Institute: VIT Bhopal University  
+Subject: Engineering Physics (Aug 2021) (PHY1001)
+
+Q1 Block A (8 kg) rests on a frictionless surface, attached via pulley to Block B (4 kg).  
+   Find the acceleration of B and the tension in the cord.  
+   [10 marks]
+
+Q2 A hand wheel with 80 cm diameter is operated with 150 N on both sides.  
+   Calculate the moment of the force couple.  
+   [10 marks]
+
+Q3 Replace classical expressions with quantum mechanical operators:  
+   a. K.E. = ½mv²  
+   b. p = mv  
+   c. E = K.E + P.E  
+   [10 marks]
+
+Q4 Consider an infinite square well (x=0 to x=L). Show the energy eigenvalues, wavefunctions, and probability densities for first five excited states.  
+   [10 marks]
+
+Q5 Explain the importance of surface-area-to-volume ratio in nanophysics.  
+   Calculate this ratio for a sphere of diameter 30 μm.  
+   [10 marks]
