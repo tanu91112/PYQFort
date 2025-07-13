@@ -1,0 +1,31 @@
+Institute: VIT Bhopal University  
+Subject: Engineering Physics (Dec 2021) (PHY1001)
+
+PART A (30 Marks)
+
+Q1 (a) How does a skater pulling in her arms do work during a spin?  
+   Why is angular momentum unchanged?  
+   OR  
+   (b) Explain the physical meaning of Ψ.  
+   Calculate minimum energy of an electron in a 4 nm infinite well.  
+   [10 marks]
+
+Q2 (a) Discuss top-down and bottom-up approaches in nanotechnology.  
+   OR  
+   (b) What is the role of metastable states? Explain with a gas laser.  
+   [10 marks]
+
+Q3 (a) What are direct and indirect band gap semiconductors?  
+   Which is better for LASERs and why?  
+   OR  
+   (b) Compute curl and divergence of F = x³y² i + x²y³z⁴ j + x²z² k  
+   [10 marks]
+
+PART B (20 Marks)
+
+Q4 λ of photon = de Broglie λ of electron.  
+   Derive relation between kinetic energies.  
+   [10 marks]
+
+Q5 Write Maxwell's equations and explain their significance.  
+   [10 marks]
