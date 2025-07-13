@@ -1,0 +1,49 @@
+Institute: VIT Bhopal University  
+Subject: Engineering Physics (Winter 2022) (PHY1001)
+
+PART A (60 Marks)
+
+Q1 (a) Distinguish inertial vs non-inertial frames with equations and daily-life examples.  
+   (b) A ring of mass M and radius R: Find moment of inertia (i) about center (z-axis), (ii) about diameter.  
+   [12 marks]
+
+Q2 (a) A photon has momentum 1.5 × 10⁻²⁷ kg·m/s. Find its de Broglie wavelength.  
+   (b) For a particle confined from 0 to 2L, estimate mean ground state position.  
+   [12 marks]
+
+Q3 Describe a semiconductor laser:  
+   (i) Working principle  
+   (ii) de Broglie wavelength of electron accelerated by 10 kV  
+   (iii) Nanotech in water treatment  
+   [12 marks]
+
+Q4 Explain three- and four-level pumping schemes. Why is four-level superior?  
+   (b) Compute div F and curl F for F = (3x)i + (x²)j – (z – 7x)k  
+   [12 marks]
+
+Q5 Write a note on fiber optics in communication and healthcare.  
+   [12 marks]
+
+Q6 A 6 kg mass rests on a rough surface (μ = 0.6).  
+   (a) Find max force P (horizontal) that doesn’t move it.  
+   (b) What if force acts at 75°?  
+   [12 marks]
+
+PART B (40 Marks)
+
+Q7 An electron's velocity has uncertainty 2×10⁶ m/s. Estimate uncertainty in position.  
+   Compare with atom size.  
+   [12 marks]
+
+Q8 (a) Describe the unique optical properties of nanomaterials.  
+   (b) Discuss LASER concepts:  
+       i. Spontaneous emission  
+       ii. Stimulated emission  
+       iii. Population inversion  
+       iv. Metastable states  
+   [12 marks]
+
+Q9 (a) Fiber with n = 1.50 must support total internal reflection at 5°.  
+   What’s the max allowed refractive index for cladding?  
+   (b) Fiber's acceptance angle is 30° in air. What is it in water (n = 1.33)?  
+   [12 marks]
