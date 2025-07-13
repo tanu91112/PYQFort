@@ -1,0 +1,22 @@
+Institute: VIT Bhopal University  
+Subject: Engineering Physics (Dec 2023) (PHY1001)
+
+Q1 Explain the four fundamental forces of nature and discuss their interaction domains.  
+   [10 marks]
+
+Q2 (a) Why are Newton’s laws not valid in non-inertial frames?  
+   (b) Two masses (1 kg and 2 kg) are 50 cm apart. Find initial acceleration due to mutual gravity.  
+   [10 marks]
+
+Q3 Derive the time-dependent equation of motion for a quantum particle.  
+   [5 marks]
+
+Q4 (a) Calculate the de Broglie wavelength of a proton moving at speed of light.  
+   (b) Find the minimum energy of an electron in a 1 Å wide infinite well.  
+   [5 marks]
+
+Q5 Why is high surface area-to-volume ratio important in nanoparticles?  
+   [5 marks]
+
+Q6 How do surface plasmons affect optical properties of nanoscale materials (size and shape effect)?  
+   [10 marks]
