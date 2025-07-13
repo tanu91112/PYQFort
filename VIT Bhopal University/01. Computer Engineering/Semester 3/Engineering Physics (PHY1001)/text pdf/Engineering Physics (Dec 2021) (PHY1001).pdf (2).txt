@@ -1,0 +1,28 @@
+Institute: VIT Bhopal University  
+Subject: Engineering Physics (Nov 2021) (PHY1001)
+
+Q1 A motorist traveling at 15 m/s passes a school crossing with a 10 m/s speed limit. A police officer starts pursuing with a constant acceleration of 3.0 m/s².  
+   (a) How much time elapses before the officer passes the motorist?  
+   (b) What is the officer’s speed at that time?  
+   (c) How far has each vehicle traveled?  
+   [10 marks]
+
+Q2 A 500-N crate is pulled with 230 N to initiate movement, and 200 N to continue it.  
+   What are the coefficients of static and kinetic friction?  
+   What is the friction force if a 50 N force is applied while the crate is at rest?  
+   [10 marks]
+
+Q3 If there is a net nonzero force on a moving object, can the total work done be zero? Explain with an example.  
+   [5 marks]
+
+Q4 If a proton and an electron have the same kinetic energy, which has the longer de Broglie wavelength? Explain.  
+   [5 marks]
+
+Q5 Find the first two energy levels for an electron confined to a one-dimensional box 5.0×10⁻¹⁰ m wide.  
+   [5 marks]
+
+Q6 Given ψ(x, t) = Ae^(i(k₁x−ω₁t)) + Ae^(i(k₂x−ω₂t)), show it satisfies the Schrödinger Equation for a free particle.  
+   [10 marks]
+
+Q7 Compare the specific surface area of spherical nanoparticles of size 80 nm and 4 nm.  
+   [5 marks]
