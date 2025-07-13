@@ -1,0 +1,20 @@
+Institute: VIT Bhopal University  
+Subject: Engineering Physics (Oct 2021) (PHY1001)
+
+Q1 Find the acceleration of a 500 g block in the given figure. The surface is frictionless. (Take g = 10 m/s²)  
+   [10 marks]
+
+Q2 Derive Rayleigh-Jeans law for black body radiation and explain the ultraviolet catastrophe.  
+   [10 marks]
+
+Q3 An electron’s position is located within 1 Å. If it has 1 keV energy, what is the % uncertainty in its momentum?  
+   [10 marks]
+
+Q4 Define and explain:  
+   (a) Wave function  
+   (b) Normalized wave function  
+   (c) Properties of wave function  
+   [10 marks]
+
+Q5 Explain various synthesis methods of nanoparticles.  
+   [10 marks]
